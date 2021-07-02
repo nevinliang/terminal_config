@@ -4,7 +4,7 @@
 Fira Code is one of the coolest fonts out there because it supports math symbols in terminal.
 
 Go to https://github.com/tonsky/FiraCode/releases/download/5.2/Fira_Code_v5.2.zip to download the Fira Code font.
-	* Extract the archive and go to the `ttf` directory
+* Extract the archive and go to the `ttf` directory
 	* Then follow the instructions here specific to your OS to install the fonts
 		* https://github.com/tonsky/FiraCode/wiki/Installing
 		* It should be as simple as right clicking and pressing "install font" for the few font-types
