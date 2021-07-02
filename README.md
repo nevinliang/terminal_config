@@ -26,7 +26,7 @@ Replace your .hyper.js file with my config file and reload Hyper.js (quit out an
 	* I enabled ligatures in my config file, so after you reload, try typing echo "=/=" and you'll see it instantly turn into a math symbol!
 		* Stuff like "==>" and "-->" and "{|" and "===" are all results of Fira Code's Ligature support.
 
-I prefer editing my own colors in the config file, as you can see in the list of Hex values, but another way to change the look is to use themes.
+I prefer editing my own colors in the config file, as you can see in the list of Hex values, but another way to change the look is to use plugins.
 * Try out `hyper i hyper-one-dark` to see a new look.
 * `hyper u hyper-one-dark` uninstalls the `hyper-one-dark` plugin and reverst it back to normal.
 
