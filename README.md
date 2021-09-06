@@ -1,3 +1,8 @@
+NOTE: my hyper.js configuration is old. i have recently switched to alacritty/starship/tmux/neovim instead of hyperjs/starship/micro
+
+will update readme with another section detailing the new config sometime late september
+
+
 # SETUP TERMINAL ENV #
 
 ## Configuring Fonts ##
